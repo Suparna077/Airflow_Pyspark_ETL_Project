@@ -25,5 +25,4 @@ airflow310_env/
 .idea/
 
 #Folder For Previous Projects
-ETL_PRJ_1/
-ETL_PRJ_2/
+Airflow_AwsS3_Project/
